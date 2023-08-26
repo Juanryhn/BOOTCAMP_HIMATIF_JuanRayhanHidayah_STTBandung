@@ -85,15 +85,13 @@
     width: 50%;
     height: 40px;
     border-right: 5px;
-    background-color: rgb(28, 88, 199);
+    background-color: rgb(37, 109, 241);
     color: #fff;
     transition: 0.5s;
     border-radius: 8px;
 }
 .form-box button[type="submit"]:hover{
-    box-shadow: 0 0 30px rgba(8, 53, 175, 0.87);
-    -webkit-box-shadow: 0 0 30px rgba(8, 53, 175, 0.87);
-    -moz-box-shadow: 0 0 30px rgba(8, 53, 175, 0.87);
+    background-color: rgb(28, 80, 177);
 }
 
 .form-box .btn-social{
@@ -145,7 +143,7 @@
 .inner:hover img{
     transform: scale(1.0);
 }
-.box{
+.services-card{
     padding: 1rem;
     max-width: 22rem;
     border-radius: 10px;
